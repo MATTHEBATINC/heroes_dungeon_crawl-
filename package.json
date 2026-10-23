@@ -1,0 +1,9 @@
+{
+  "name": "8-bit-heroes-online",
+  "version": "1.0.0",
+  "description": "8-Bit Heroes Dungeon Crawl - online co-op server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16" },
+  "license": "MIT"
+}
